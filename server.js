@@ -1,3 +1,5 @@
+//deploy
+
 // server.js — نقطة دخول الخادم
 require('dotenv').config();
 
